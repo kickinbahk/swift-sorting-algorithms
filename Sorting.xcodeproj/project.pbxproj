@@ -47,6 +47,7 @@
 		EB30F1521DE34BBB0026FBD4 /* SortingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SortingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB30F1561DE34BBB0026FBD4 /* SortingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingUITests.swift; sourceTree = "<group>"; };
 		EB30F1581DE34BBB0026FBD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB30F1641DE34BFB0026FBD4 /* InsertionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InsertionSort.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		EB30F12A1DE34BBA0026FBD4 = {
 			isa = PBXGroup;
 			children = (
+				EB30F1641DE34BFB0026FBD4 /* InsertionSort.playground */,
 				EB30F1351DE34BBA0026FBD4 /* Sorting */,
 				EB30F14A1DE34BBB0026FBD4 /* SortingTests */,
 				EB30F1551DE34BBB0026FBD4 /* SortingUITests */,
